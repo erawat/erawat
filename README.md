@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Erawat Chamanont.
 
-I am a software engineer. I passionate about technologies, software development and love learn new things that not related to technoglies. 
+I am a software engineer. I passionate about technologies, software development and love learn new things that not related to technologies. 
 
 
 <a href="https://github.com/erawat">
