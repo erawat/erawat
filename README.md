@@ -13,7 +13,6 @@ I am a software engineer. I passionate about technologies, software development 
 -  <a href="https://www.linkedin.com/in/erawat/"><img src="https://img.shields.io/badge/-Erawat%20Chamanont-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ---
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 <!--<!--
 **erawat/erawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
